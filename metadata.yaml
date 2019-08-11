@@ -1,0 +1,35 @@
+_repo: Index-of-the-Project-Gutenberg-Works-of-Maturin-Murray-Ballou_60011
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ballou, Maturin M. (Maturin Murray)
+    aliases:
+    - Forester, Frank
+    - Murray, Lieutenant
+    - Ballou, M. M. (Maturin Murray)
+    - Ballou, Maturin Murray
+    birthdate: 1820
+    deathdate: 1895
+    gutenberg_agent_id: '1543'
+    url: http://www.gutenberg.org/2009/agents/1543
+    wikipedia: http://en.wikipedia.org/wiki/Maturin_Murray_Ballou
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2019-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60011'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indexes'
+- !lcc 'PS'
+- GITenberg
+title: Index of the Project Gutenberg Works of Maturin Murray Ballou
+url: http://www.gutenberg.org/ebooks/60011
